@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ConversaoImplic_Casting\ConversaoImplic_Casting.csproj" />
-  </ItemGroup>
-
 </Project>
